@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 À propos de moi :
+
+🎓 Je suis actuellement étudiant en BTS CIEL - Cybersécurité, option A : Informatique et Réseaux.
+💻 En parallèle de mes études, j’ai suivi une formation sur OpenClassrooms en tant que Développeur Web Javascript React, ce qui m’a permis d’acquérir des compétences solides en développement front-end moderne.
+🔥 Passionné par la création de sites web et d'applications, je suis constamment motivé à apprendre de nouvelles technologies et à relever des défis techniques.
+💡 J’aime comprendre comment les choses fonctionnent et je m’investis pleinement dans chaque projet que j’entreprends.
+🤝 Je suis toujours ouvert à collaborer, échanger, ou aider sur des projets liés au développement ou à la cybersécurité.
+🎯 Mon objectif est de devenir un développeur complet, capable de concevoir des solutions web sécurisées, performantes et intuitives.
 
 
 ## 🌐 Socials:
